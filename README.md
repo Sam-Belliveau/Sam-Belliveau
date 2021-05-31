@@ -6,7 +6,7 @@ I was the President of Software Engineering for the Stuyvesant Robotics Team. I'
 
 ## Personal Projects
 
-A lot of my work has gone into libraries or random utilities for C++, many of which are on [my gist](gist.github.com/Sam-Belliveau). I have extensive experience with esoteric aspects of C++ such as SFINAE or template meta-programming. 
+A lot of my work has gone into libraries or random utilities for C++, many of which are on [my gist](https://gist.github.com/Sam-Belliveau). I have extensive experience with esoteric aspects of C++ such as SFINAE or template meta-programming. 
 
 ## Github Stats
 
