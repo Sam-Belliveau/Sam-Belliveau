@@ -2,7 +2,7 @@
 
 ## Robotics
 
-I was the President of Software Engineering for the Stuyvesant Robotics Team. Examples of my work can be seen in projects such as [StuyLib](StuyPulse/StuyLib), or [Edwin](StuyPulse/Edwin). I am the inital creator of StuyLib and have contributed the vast majority of the code and documentation. For Edwin I am resposible for restructuring all of the robot code, and cleaning up the subsystems to perform correctly. Much of my other work for the robotics team has been with regards to research, which is not visible on github.
+I was the President of Software Engineering for the Stuyvesant Robotics Team. Examples of my work can be seen in projects such as [StuyLib](https://github.com/StuyPulse/StuyLib), or [Edwin](https://github.com/StuyPulse/Edwin). I am the inital creator of StuyLib and have contributed the vast majority of the code and documentation. For Edwin I am resposible for restructuring all of the robot code, and cleaning up the subsystems to perform correctly. Much of my other work for the robotics team has been with regards to research, which is not visible on github.
 
 ## Personal Projects
 
