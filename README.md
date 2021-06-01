@@ -24,4 +24,4 @@ I like to make my projects very low level, and I don't make many webapps, or use
 
 ## Github Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Belliveau&count_private=true)
+[![Sam Belliveau's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam-Belliveau&count_private=true)](https://github.com/Sam-Belliveau)
