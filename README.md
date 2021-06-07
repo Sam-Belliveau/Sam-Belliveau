@@ -12,6 +12,7 @@ I like to make my projects very low level, and I don't make many webapps, or use
 
 ### Some of My Favorite Projects:
 
+= [Sams-Marcher](https://github.com/Sam-Belliveau/Sams-Marcher): a very simple ray marcher that I built from the ground up to test out some cool math.
 - [Upside Down](https://github.com/Sam-Belliveau/Upside-Down): a game written from the ground up in C++ with a fully working level editor, game mechanics, and it is structured in a way that makes it really easy to add new content.
 - [Infix Notation Evaluator](https://gist.github.com/Sam-Belliveau/3c90f0f05368f0e5dbb0c9a0b37e1025): very simple, but blazing fast infix notation evaluator. It takes in a math problem as a string and evaluates it extremely quickly. While it is not turing complete, it is fast enough to use in something such as a graphing calculator. 
 - [CRC Hashing C++](https://gist.github.com/Sam-Belliveau/72ba4a8710324ce7a1ac1789d64ec831): very fast / optimized implementation of CRC in C++ using template programming and SFINAE. Because of the heavy use of SFINAE _(concepts were not a thing yet)_, it is able to recursively hash almost every type that can be broken down into integers. It can iterate across lists, strings, and even lists of lists to give you a cyclic redundancy check of any data type. It can do all of that, at compile time, making it blazing fast.
