@@ -12,6 +12,7 @@ I like to make my projects very low level, and I don't make many webapps, or use
 
 ### Some of My Favorite Projects:
 
+- [Fast SQRT](https://gist.github.com/Sam-Belliveau/501f2f1589734cf89d1b9b448f4a9717): inspired by the Q_rsqrt() function found in quake, this is my own version of a function that does bit level hacking to speed up floating point calculations. (it doesn't offer a speedup on modern hardware, but it used to)
 - [Sams-Marcher](https://github.com/Sam-Belliveau/Sams-Marcher): a very simple ray marcher that I built from the ground up to test out some cool math.
 - [Upside Down](https://github.com/Sam-Belliveau/Upside-Down): a game written from the ground up in C++ with a fully working level editor, game mechanics, and it is structured in a way that makes it really easy to add new content.
 - [Infix Notation Evaluator](https://gist.github.com/Sam-Belliveau/3c90f0f05368f0e5dbb0c9a0b37e1025): very simple, but blazing fast infix notation evaluator. It takes in a math problem as a string and evaluates it extremely quickly. While it is not turing complete, it is fast enough to use in something such as a graphing calculator. 
