@@ -1,3 +1,5 @@
+## ![](https://komarev.com/ghpvc/?username=Sam-Belliveau&color=blue&style=plastic)
+
 # Hi there, my name is Sam Belliveau
 
 ## Robotics
