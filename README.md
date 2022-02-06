@@ -4,10 +4,10 @@
 ## Here are a few stats about me!
 
 <a href="https://github.com/Sam-Belliveau">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam-Belliveau&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=200/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam-Belliveau&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=180/>
 </a>
 <a href="https://github.com/Sam-Belliveau">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Belliveau&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4", height=200/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Belliveau&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3", height=180/>
 </a>
 
 ---
