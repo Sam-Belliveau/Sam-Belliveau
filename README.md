@@ -1,5 +1,5 @@
 
-# 👋 Hello! I'm Sam Belliveau <a href="https://github.com/Sam-Belliveau"><img align="right" src="https://komarev.com/ghpvc/?username=Sam-Belliveau&color=red&style=flat" height=36/></a>
+# 👋 Hello! I'm (Sam Belliveau)[https://samb.nyc] <a href="https://github.com/Sam-Belliveau"><img align="right" src="https://komarev.com/ghpvc/?username=Sam-Belliveau&color=red&style=flat" height=36/></a>
 
 ## Here are a few stats about me!
 
