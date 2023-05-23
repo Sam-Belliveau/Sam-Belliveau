@@ -16,6 +16,7 @@
 
 ## Some of My Favorite Projects:
 
+- [Flying Dutchman Chess Engine](https://github.com/Sam-Belliveau/flying-dutchman)
 - [Fast SQRT](https://gist.github.com/Sam-Belliveau/501f2f1589734cf89d1b9b448f4a9717)
 - [Sams-Marcher](https://github.com/Sam-Belliveau/Sams-Marcher)
 - [Upside Down](https://github.com/Sam-Belliveau/Upside-Down)
