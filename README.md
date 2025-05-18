@@ -1,12 +1,6 @@
 
 # 👋 Hello! I'm [Sam Belliveau](https://samb.nyc), here's my [Resume](https://github.com/Sam-Belliveau/resume/blob/main/Sam-Belliveau-SWE.pdf) <a href="https://github.com/Sam-Belliveau"><img align="right" src="https://komarev.com/ghpvc/?username=Sam-Belliveau&color=red&style=flat" height=36/></a>
 
-## Here are a few stats about me!
-
-<a href="https://github.com/Sam-Belliveau">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Belliveau&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3", height=200/>
-</a>
-
 ---
 
 ## Extra Fun Projects: [gist.github.com](https://gist.github.com/Sam-Belliveau)
